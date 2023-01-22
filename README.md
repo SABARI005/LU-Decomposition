@@ -14,10 +14,10 @@ To write a program to find the LU Decomposition of a matrix.
 4. assign variables to array function to get the result.
 
 ## Program:
-'''Program to find L and U matrix using LU decomposition.
+```
+Program to find L and U matrix using LU decomposition.
 Developed by:SABARI S 
 RegisterNumber:22008698
-'''
 import numpy as np
 from scipy.linalg import lu
 arr=eval(input())
